@@ -1,9 +1,8 @@
 # SF Mono Nerd Font Complete
-SF Mono Fonts Patched with All (Nerd Glyphs/Icons)[https://github.com/ryanoasis/nerd-fonts]
+SF Mono Fonts Patched with All [Nerd Glyphs/Icons](https://github.com/ryanoasis/nerd-fonts). **This is ONLY for experiment and development purpose**
 
-**This is ONLY for experiment and development purpose**
 
-**license**
+# **LICENSE**
 ```
 This SF Mono Font (the “Apple Font”) is licensed to you by Apple Inc. (“Apple”)
 in consideration of your agreement to the following terms. If you do not agree
